@@ -15,9 +15,24 @@ This project involves scraping real estate data from the website "https://nigeri
 <li>Number of toilets
 <li>Parking availability
 <li>Contact details <ul/>
+  
+ ## Languages
+ Python
+  
+ Sql
 
-## Database Setup
 
-1. Database: PostgreSQL will be used to store the extracted data.
-2. Schema: Create a schema in the PostgreSQL database to store the real estate data.
-3. Tables: Create a table within the schema to store the extracted data, with appropriate column names and data types for each field.
+## Libraries required 
+selenium
+  
+pandas
+  
+csv
+  
+time
+  
+datetime
+  
+sqlalchemy
+
+
