@@ -23,16 +23,16 @@ This project involves scraping real estate data from the website "https://nigeri
 
 
 ## Libraries required 
-selenium
+<ul><li>selenium
   
-pandas
+<li>pandas
   
-csv
+<li>csv
   
-time
+<li>time
   
-datetime
+<li>datetime
   
-sqlalchemy
+<li>sqlalchemy<ul/>
 
 
