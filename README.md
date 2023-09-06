@@ -1,6 +1,14 @@
 # Web-Scraping-Real-Estate-Data
 This project involves scraping real estate data from the website "https://nigeriapropertycentre.com/" for properties listed for rent in Lagos State. The scraped data will be extracted and loaded into a PostgreSQL database. The data to be extracted includes room information, property description, prices, number of bedrooms, bathrooms, toilets, parking availability, and contact details.
 
+## Prerequisites
+Before you begin, make sure you have the following installed on your system:
+
+1. Python 3X
+2. Selinium Libary
+3. FirefoxDriver executable
+
+
 ## Scraping Process
 1. Website: The target website for scraping is "https://nigeriapropertycentre.com/".
 2. Scope: The scraping will be focused on properties listed for rent in Lagos State.
